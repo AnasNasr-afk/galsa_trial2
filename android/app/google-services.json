@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989218215483",
+    "project_id": "galsatrial2",
+    "storage_bucket": "galsatrial2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989218215483:android:238ac4126ec2de065a2e1e",
+        "android_client_info": {
+          "package_name": "com.galsa.trial2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPDg3GzSnMXY4Kix5JyWy0NDTIhLL99tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
