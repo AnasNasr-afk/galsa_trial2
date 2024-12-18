@@ -51,7 +51,7 @@ _Home Screen_
 [![Home Screen](assets/images/homePageScreen.png)](https://github.com/AnasNasr-afk/galsa_trial2/blob/2a0f0cc69810da01b58036728670654a3de77f47/homePageScreen.png)
 
 _Add Post Screen_
-![Add Post Screen](assets/images/addPostScreen.png)
+[![Add Post Screen](assets/images/addPostScreen.png)](https://github.com/AnasNasr-afk/galsa_trial2/blob/fbdae75c132cd092249254f9939644e9983050f3/addPostScreen.png)
 
 _Cart Screen_
 ![Cart Screen](assets/images/cartScreen.png)
