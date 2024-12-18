@@ -42,25 +42,26 @@ _ONBOARDING_
 ![Onboarding](https://github.com/AnasNasr-afk/galsa_trial2/raw/ac496895a9528585d8a4a9c69c87acf294cc05bf/onBoardingScreen.png)
 
 _Login Screen_
-https://github.com/AnasNasr-afk/galsa_trial2/blob/8f16991b1a4e7fb1e5a311f1fa4661896845e9e7/loginScreen.png
+![Login Screen](https://github.com/AnasNasr-afk/galsa_trial2/raw/8f16991b1a4e7fb1e5a311f1fa4661896845e9e7/loginScreen.png)
 
 _Signup Screen_
-[![Signup Screen](assets/images/signUpScreen.png)](https://github.com/AnasNasr-afk/galsa_trial2/blob/0bb2cebae3e5bdf2c178480471c2486a58fa2b82/signUpScreen.png)
+![Signup Screen](https://github.com/AnasNasr-afk/galsa_trial2/raw/0bb2cebae3e5bdf2c178480471c2486a58fa2b82/signUpScreen.png)
 
 _Home Screen_
-[![Home Screen](assets/images/homePageScreen.png)](https://github.com/AnasNasr-afk/galsa_trial2/blob/2a0f0cc69810da01b58036728670654a3de77f47/homePageScreen.png)
+![Home Screen](https://github.com/AnasNasr-afk/galsa_trial2/raw/2a0f0cc69810da01b58036728670654a3de77f47/homePageScreen.png)
 
 _Add Post Screen_
-[![Add Post Screen](assets/images/addPostScreen.png)](https://github.com/AnasNasr-afk/galsa_trial2/blob/fbdae75c132cd092249254f9939644e9983050f3/addPostScreen.png)
+![Add Post Screen](https://github.com/AnasNasr-afk/galsa_trial2/raw/fbdae75c132cd092249254f9939644e9983050f3/addPostScreen.png)
 
 _Cart Screen_
-https://github.com/AnasNasr-afk/galsa_trial2/blob/9fd21d5c5ffd17e6c2955170d46863e04e8c5ab1/cartScreen.png
+![Cart Screen](https://github.com/AnasNasr-afk/galsa_trial2/raw/9fd21d5c5ffd17e6c2955170d46863e04e8c5ab1/cartScreen.png)
 
 _Drawer Screen_
-[![Drawer Screen](assets/images/drawerScreen.png)](https://github.com/AnasNasr-afk/galsa_trial2/blob/33186c1cd38993c0d92c442cd0758659b04ba366/drawerScreen.png)
+![Drawer Screen](https://github.com/AnasNasr-afk/galsa_trial2/raw/33186c1cd38993c0d92c442cd0758659b04ba366/drawerScreen.png)
 
 _Product Info Screen_
-https://github.com/AnasNasr-afk/galsa_trial2/blob/87899954f970c0a182892e05dacaccf8b3dfe701/productInfoScreen.png
+![Product Info Screen](https://github.com/AnasNasr-afk/galsa_trial2/raw/87899954f970c0a182892e05dacaccf8b3dfe701/productInfoScreen.png)
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 **Project Structure 📂**
