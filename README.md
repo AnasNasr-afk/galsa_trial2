@@ -39,29 +39,28 @@ It is integrated with api for login and sign up validations.
 **Screenshots 📸**
 
 _ONBOARDING_
-[assets/images/onBoardingScreen.png](https://raw.githubusercontent.com/AnasNasr-afk/galsa_trial2/refs/heads/main/onBoardingScreen.png)
+![Onboarding](assets/images/onBoardingScreen.png)
 
 _Login Screen_
-assets/images/loginScreen.png
+![Login Screen](assets/images/loginScreen.png)
 
 _Signup Screen_
-assets/images/signUpScreen.png
+![Signup Screen](assets/images/signUpScreen.png)
 
 _Home Screen_
-assets/images/homePageScreen.png
+![Home Screen](assets/images/homePageScreen.png)
 
 _Add Post Screen_
-assets/images/addPostScreen.png
+![Add Post Screen](assets/images/addPostScreen.png)
 
 _Cart Screen_
-assets/images/cartScreen.png
+![Cart Screen](assets/images/cartScreen.png)
 
 _Drawer Screen_
-assets/images/drawerScreen.png
+![Drawer Screen](assets/images/drawerScreen.png)
 
 _Product Info Screen_
-assets/images/productInfoScreen.png
-
+![Product Info Screen](assets/images/productInfoScreen.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
