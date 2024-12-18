@@ -60,8 +60,7 @@ _Drawer Screen_
 [![Drawer Screen](assets/images/drawerScreen.png)](https://github.com/AnasNasr-afk/galsa_trial2/blob/33186c1cd38993c0d92c442cd0758659b04ba366/drawerScreen.png)
 
 _Product Info Screen_
-![Product Info Screen](assets/images/productInfoScreen.png)
-
+https://github.com/AnasNasr-afk/galsa_trial2/blob/87899954f970c0a182892e05dacaccf8b3dfe701/productInfoScreen.png
 ---------------------------------------------------------------------------------------------------------------------------
 
 **Project Structure 📂**
@@ -70,7 +69,7 @@ galsa_trial2/
 │── android/                       # Android native files
 │── ios/                           # iOS native files
 │── assets/                        # Assets directory
-│   ├── images/                    # PNG, JPG images
+│   ├── images/                    # PNG, JPG [images](https://github.com/AnasNasr-afk/galsa_trial2/blob/87899954f970c0a182892e05dacaccf8b3dfe701/productInfoScreen.png)
 │   │   ├── Screenshot1.png
 │   │   ├── Screenshot2.png
 │   ├── svgs/                      # SVG icons
