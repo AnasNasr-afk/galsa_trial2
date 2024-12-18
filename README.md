@@ -48,7 +48,7 @@ _Signup Screen_
 [![Signup Screen](assets/images/signUpScreen.png)](https://github.com/AnasNasr-afk/galsa_trial2/blob/0bb2cebae3e5bdf2c178480471c2486a58fa2b82/signUpScreen.png)
 
 _Home Screen_
-![Home Screen](assets/images/homePageScreen.png)
+[![Home Screen](assets/images/homePageScreen.png)](https://github.com/AnasNasr-afk/galsa_trial2/blob/2a0f0cc69810da01b58036728670654a3de77f47/homePageScreen.png)
 
 _Add Post Screen_
 ![Add Post Screen](assets/images/addPostScreen.png)
