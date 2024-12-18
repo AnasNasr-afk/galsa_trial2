@@ -54,7 +54,7 @@ _Add Post Screen_
 [![Add Post Screen](assets/images/addPostScreen.png)](https://github.com/AnasNasr-afk/galsa_trial2/blob/fbdae75c132cd092249254f9939644e9983050f3/addPostScreen.png)
 
 _Cart Screen_
-![Cart Screen](assets/images/cartScreen.png)
+https://github.com/AnasNasr-afk/galsa_trial2/blob/9fd21d5c5ffd17e6c2955170d46863e04e8c5ab1/cartScreen.png
 
 _Drawer Screen_
 ![Drawer Screen](assets/images/drawerScreen.png)
