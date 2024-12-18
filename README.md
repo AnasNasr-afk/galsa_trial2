@@ -39,7 +39,7 @@ It is integrated with api for login and sign up validations.
 **Screenshots 📸**
 
 _ONBOARDING_
-assets/images/onBoardingScreen.png
+[assets/images/onBoardingScreen.png](https://raw.githubusercontent.com/AnasNasr-afk/galsa_trial2/refs/heads/main/onBoardingScreen.png)
 
 _Login Screen_
 assets/images/loginScreen.png
