@@ -45,7 +45,7 @@ _Login Screen_
 https://github.com/AnasNasr-afk/galsa_trial2/blob/8f16991b1a4e7fb1e5a311f1fa4661896845e9e7/loginScreen.png
 
 _Signup Screen_
-![Signup Screen](assets/images/signUpScreen.png)
+[![Signup Screen](assets/images/signUpScreen.png)](https://github.com/AnasNasr-afk/galsa_trial2/blob/0bb2cebae3e5bdf2c178480471c2486a58fa2b82/signUpScreen.png)
 
 _Home Screen_
 ![Home Screen](assets/images/homePageScreen.png)
