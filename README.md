@@ -57,7 +57,7 @@ _Cart Screen_
 https://github.com/AnasNasr-afk/galsa_trial2/blob/9fd21d5c5ffd17e6c2955170d46863e04e8c5ab1/cartScreen.png
 
 _Drawer Screen_
-![Drawer Screen](assets/images/drawerScreen.png)
+[![Drawer Screen](assets/images/drawerScreen.png)](https://github.com/AnasNasr-afk/galsa_trial2/blob/33186c1cd38993c0d92c442cd0758659b04ba366/drawerScreen.png)
 
 _Product Info Screen_
 ![Product Info Screen](assets/images/productInfoScreen.png)
