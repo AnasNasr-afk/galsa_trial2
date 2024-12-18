@@ -42,7 +42,7 @@ _ONBOARDING_
 ![Onboarding]([assets/images/onBoardingScreen.png](https://github.com/AnasNasr-afk/galsa_trial2/blob/ac496895a9528585d8a4a9c69c87acf294cc05bf/onBoardingScreen.png))
 
 _Login Screen_
-![Login Screen](assets/images/loginScreen.png)
+https://github.com/AnasNasr-afk/galsa_trial2/blob/8f16991b1a4e7fb1e5a311f1fa4661896845e9e7/loginScreen.png
 
 _Signup Screen_
 ![Signup Screen](assets/images/signUpScreen.png)
