@@ -38,28 +38,28 @@ It is integrated with api for login and sign up validations.
 
 **Screenshots 📸**
 
-_ONBOARDING_
+**_ONBOARDING_**
 ![Onboarding](https://github.com/AnasNasr-afk/galsa_trial2/raw/ac496895a9528585d8a4a9c69c87acf294cc05bf/onBoardingScreen.png)
 
-_Login Screen_
+**_Login Screen_**
 ![Login Screen](https://github.com/AnasNasr-afk/galsa_trial2/raw/8f16991b1a4e7fb1e5a311f1fa4661896845e9e7/loginScreen.png)
 
-_Signup Screen_
+**_Signup Screen_**
 ![Signup Screen](https://github.com/AnasNasr-afk/galsa_trial2/raw/0bb2cebae3e5bdf2c178480471c2486a58fa2b82/signUpScreen.png)
 
-_Home Screen_
+**_Home Screen_**
 ![Home Screen](https://github.com/AnasNasr-afk/galsa_trial2/raw/2a0f0cc69810da01b58036728670654a3de77f47/homePageScreen.png)
 
-_Add Post Screen_
+**_Add Post Screen_**
 ![Add Post Screen](https://github.com/AnasNasr-afk/galsa_trial2/raw/fbdae75c132cd092249254f9939644e9983050f3/addPostScreen.png)
 
-_Cart Screen_
+**_Cart Screen_**
 ![Cart Screen](https://github.com/AnasNasr-afk/galsa_trial2/raw/9fd21d5c5ffd17e6c2955170d46863e04e8c5ab1/cartScreen.png)
 
-_Drawer Screen_
+**_Drawer Screen_**
 ![Drawer Screen](https://github.com/AnasNasr-afk/galsa_trial2/raw/33186c1cd38993c0d92c442cd0758659b04ba366/drawerScreen.png)
 
-_Product Info Screen_
+**_Product Info Screen_**
 ![Product Info Screen](https://github.com/AnasNasr-afk/galsa_trial2/raw/87899954f970c0a182892e05dacaccf8b3dfe701/productInfoScreen.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
