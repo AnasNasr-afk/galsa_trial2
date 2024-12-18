@@ -39,28 +39,28 @@ It is integrated with api for login and sign up validations.
 **Screenshots 📸**
 
 _ONBOARDING_
-![Onboarding](assets/images/onBoardingScreen.png)
+assets/images/onBoardingScreen.png
 
 _Login Screen_
-![Login Screen](assets/images/loginScreen.png)
+assets/images/loginScreen.png
 
 _Signup Screen_
-![Signup Screen](assets/images/signUpScreen.png)
+assets/images/signUpScreen.png
 
 _Home Screen_
-![Home Screen](assets/images/homePageScreen.png)
+assets/images/homePageScreen.png
 
 _Add Post Screen_
-![Add Post Screen](assets/images/addPostScreen.png)
+assets/images/addPostScreen.png
 
 _Cart Screen_
-![Cart Screen](assets/images/cartScreen.png)
+assets/images/cartScreen.png
 
 _Drawer Screen_
-![Drawer Screen](assets/images/drawerScreen.png)
+assets/images/drawerScreen.png
 
 _Product Info Screen_
-![Product Info Screen](assets/images/productInfoScreen.png)
+assets/images/productInfoScreen.png
 
 
 ---------------------------------------------------------------------------------------------------------------------------
